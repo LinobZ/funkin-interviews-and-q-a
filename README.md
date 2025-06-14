@@ -1,5 +1,5 @@
 # Friday Night Funkin' Interviews and Q&As
-[Friday Night Funkin'](https://github.com/FunkinCrew/awesome-funkin-resources/raw/main/img/FNF-Logo.svg)
+[![Friday Night Funkin'](https://github.com/FunkinCrew/awesome-funkin-resources/raw/main/img/FNF-Logo.svg)](https://funkin.me/)
 > Various Interviews and Q&As by members of the company Funkin Crew Inc.
 
 Thanks for everyone who has archived many of the interviews shown here 
