@@ -1,5 +1,5 @@
 # Friday Night Funkin' Interviews and Q&As
-[Friday Night Funkin'](https://github.com/FunkinCrew/awesome-funkin-resources/raw/main/img/FNF-Logo.svg)]
+[Friday Night Funkin'](https://github.com/FunkinCrew/awesome-funkin-resources/raw/main/img/FNF-Logo.svg)
 > Various Interviews and Q&As by members of the company Funkin Crew Inc.
 
 Thanks for everyone who has archived many of the interviews shown here 
@@ -12,7 +12,7 @@ List system based on [awesome-funkin-resources](https://github.com/FunkinCrew/aw
 - [4chan](https://github.com/LinobZ/funkin-interviews-and-q&a#4chan)
 - [Reddit](https://github.com/LinobZ/funkin-interviews-and-q&a#Reddit)
 - [Newgrounds](https://github.com/LinobZ/funkin-interviews-and-q&a#Newgrounds)
-- [Media Outlets](https://github.com/LinobZ/funkin-interviews-and-q&a#Media Outlets)
+- [Media Outlets](https://github.com/LinobZ/funkin-interviews-and-q&a#media-outlets)
 - [Miscellaneous](https://github.com/LinobZ/funkin-interviews-and-q&a#Miscellaneous)
 
 ## Youtube
