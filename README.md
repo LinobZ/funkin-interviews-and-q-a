@@ -2,9 +2,9 @@
 [![Friday Night Funkin'](https://github.com/FunkinCrew/awesome-funkin-resources/raw/main/img/FNF-Logo.svg)](https://funkin.me/)
 > Various Interviews and Q&As by members of the company Funkin Crew Inc.
 
-Thanks for everyone who has archived many of the interviews shown here. 
+Thanks for everyone who has conduct and archived many of the interviews shown here. 
 
-List system based on [awesome-funkin-resources](https://github.com/FunkinCrew/awesome-funkin-resources) and some of the information shown are gathered from the [Funkipedia](https://fridaynightfunkin.wiki.gg/). 
+Repository based on [awesome-funkin-resources](https://github.com/FunkinCrew/awesome-funkin-resources) and some of the information shown are gathered from the [Funkipedia](https://fridaynightfunkin.wiki.gg/). 
 
 ## Contents
 - [Youtube](https://github.com/LinobZ/funkin-interviews-and-qna#Youtube)
