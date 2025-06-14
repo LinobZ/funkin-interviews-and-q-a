@@ -2,22 +2,22 @@
 [![Friday Night Funkin'](https://github.com/FunkinCrew/awesome-funkin-resources/raw/main/img/FNF-Logo.svg)](https://funkin.me/)
 > Various Interviews and Q&As by members of the company Funkin Crew Inc.
 
-Thanks for everyone who has archived many of the interviews shown here 
+Thanks for everyone who has archived many of the interviews shown here. 
 
 List system based on [awesome-funkin-resources](https://github.com/FunkinCrew/awesome-funkin-resources) and some of the information shown are gathered from the [Funkipedia](https://fridaynightfunkin.wiki.gg/). 
 
 ## Contents
-- [Youtube](https://github.com/LinobZ/funkin-interviews-and-q&a#Youtube)
-- [Streams](https://github.com/LinobZ/funkin-interviews-and-q&a#Streams)
-- [4chan](https://github.com/LinobZ/funkin-interviews-and-q&a#4chan)
-- [Reddit](https://github.com/LinobZ/funkin-interviews-and-q&a#Reddit)
-- [Newgrounds](https://github.com/LinobZ/funkin-interviews-and-q&a#Newgrounds)
-- [Media Outlets](https://github.com/LinobZ/funkin-interviews-and-q&a#media-outlets)
-- [Miscellaneous](https://github.com/LinobZ/funkin-interviews-and-q&a#Miscellaneous)
+- [Youtube](https://github.com/LinobZ/funkin-interviews-and-qna#Youtube)
+- [Streams](https://github.com/LinobZ/funkin-interviews-and-qna#Streams)
+- [4chan](https://github.com/LinobZ/funkin-interviews-and-qna#4chan)
+- [Reddit](https://github.com/LinobZ/funkin-interviews-and-qna#Reddit)
+- [Newgrounds](https://github.com/LinobZ/funkin-interviews-and-qna#Newgrounds)
+- [Media Outlets](https://github.com/LinobZ/funkin-interviews-and-qna#media-outlets)
+- [Miscellaneous](https://github.com/LinobZ/funkin-interviews-and-qna#Miscellaneous)
 
 ## Youtube
-- RebelTaxi (February 12, 2021). ["Friday Night Funkin Creators Interview (Pizza Party)"](https://www.youtube.com/watch?v=AJ5dRQbqMsU) - 
-- The First Podcast. (May 1, 2021). ["Friday Night Funkin' Leaks and Rumors, Confirmed | The First Podcast #178 w/ ninjamuffin99"](https://www.youtube.com/watch?v=lQacp7ip-H4) - 
+- RebelTaxi (February 12, 2021). ["Friday Night Funkin Creators Interview (Pizza Party)"](https://www.youtube.com/watch?v=AJ5dRQbqMsU)  
+- The First Podcast. (May 1, 2021). ["Friday Night Funkin' Leaks and Rumors, Confirmed | The First Podcast #178 w/ ninjamuffin99"](https://www.youtube.com/watch?v=lQacp7ip-H4)  
 - HeroBrenn (May 25, 2021). ["The Funkin' Interview"](https://www.youtube.com/watch?v=qTvmFEAmK9k)
 - ghost (Feb 4, 2021). ["Interviewing ninja_muffin: The Creator of Friday Night Funkin'"](https://www.youtube.com/watch?v=9lLiwtFfhuk)
 - Toronto Business Journal (Jul 5, 2022). ["Interview with Friday Night Funkin Creator - Cameron Taylor aka Ninjamuffin99"](https://www.youtube.com/watch?v=v5tUcWIVCV4)
@@ -68,5 +68,5 @@ _Note: 4chan is anonymous website, as such it's hard to tell which posts are fro
 - Ruffcrane (February 2021). ["FNF INTERVIEW WITH NINJAMUFFIN99 NEWGROUNDS"](https://fridaynightfunkin.wiki.gg/wiki/File:FNF_INTERVIEW_WITH_NINJAMUFFIN99_NEWGROUNDS.png?oldid=25938). From Funkipedia
 - ninja_muffin99 (Mar 25, 2021). ["6AM AMA i will try to answer every question about literally anything"](https://x.com/ninja_muffin99/status/1375023830184423429). From Twitter 
 - Ruffcrane (April 14, 2021). ["Just some questions, not an interview lol"](https://fridaynightfunkin.wiki.gg/wiki/File:Just_some_questions,_not_an_interview_lol.png). From Funkipedia
-- DidYouKnowGaming (Nov 14, 2021). ["How Newgrounds Changed Gaming ft. JohnnyUtah"](https://www.youtube.com/watch?v=Ncv6doXgKLw) 
+- DidYouKnowGaming (Nov 14, 2021). ["How Newgrounds Changed Gaming ft. JohnnyUtah"](https://www.youtube.com/watch?v=Ncv6doXgKLw). From Youtube - Not exactly an interview, though there are many pieces of information that was revealed in this video  
 - framework (December 19, 2021). ["fnf twitter space press conference"](https://www.youtube.com/watch?v=0v1nTFdWWi8s). From Funkipedia
