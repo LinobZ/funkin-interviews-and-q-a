@@ -22,7 +22,7 @@ Repository based on [awesome-funkin-resources](https://github.com/FunkinCrew/awe
 - ghost (Feb 4, 2021). ["Interviewing ninja_muffin: The Creator of Friday Night Funkin'"](https://www.youtube.com/watch?v=9lLiwtFfhuk)
 - Toronto Business Journal (Jul 5, 2022). ["Interview with Friday Night Funkin Creator - Cameron Taylor aka Ninjamuffin99"](https://www.youtube.com/watch?v=v5tUcWIVCV4)
 - The First Podcast (Aug 18, 2023). ["Friday Night Funkin’s Full Release is Coming (Be Patient) | The First Podcast #204 w/ NinjaMuffin99"](https://www.youtube.com/watch?v=q6GGg1B6UpI)
-- Metatera (Jun 22, 2024). ["FNF's NEW Official Musician... Saruky! (Hotline 024 Creator Interview)"](https://youtu.be/tokP5CzoYmI). Metatera interviews Saruky after his involvement with the Funkin Crew Inc. was revealed
+- Metatera (Jun 22, 2024). ["FNF's NEW Official Musician... Saruky! (Hotline 024 Creator Interview)"](https://youtu.be/tokP5CzoYmI) - Metatera interviews Saruky after his involvement with the Funkin Crew Inc. was revealed
 
 ## Streams
 - [Streams Spreadsheet](https://docs.google.com/spreadsheets/d/1VhkpdQN45Q01vt7r_U1AI-zLJzcw2xVMtrvZEY5uEXY/edit?usp=sharing) - A spreadsheet of every single funkin' related stream
@@ -33,7 +33,7 @@ Repository based on [awesome-funkin-resources](https://github.com/FunkinCrew/awe
 
 ## 4Chan
 _Note: 4chan is anonymous website, as such it's hard to tell which posts are from the devs themselves. However we know these are the real deal since they always show proof  of their legitimacy._
-- ninja_muffin99 (May 24, 2021). "hey guys ninjamuffin here" 
+- ninja_muffin99 (May 24, 2021). ["hey guys ninjamuffin here"](https://arch.b4k.dev/vg/thread/336682568/#q336703360) 
 - ninja_muffin99 (Jul 13, 2021). ["hey guys it me ninjamuffin im bored tonite hit me wit AMA"](https://arch.b4k.dev/vg/thread/343150684/#q343189412) 
 - ninja_muffin99 (November 3, 2021). ["ninjamuffin ama episode 3 or somethin"](https://arch.b4k.dev/vg/thread/358423667/#q358428761) 
 - ninja_muffin99 (December 6, 2021). ["ok funkers casual lil late nite ama its me ninjamuffin99"](https://arch.b4k.dev/vg/thread/364269156/#q364269849) 
